@@ -79,7 +79,7 @@ $(function() {
                 name: '开源中国',
                 link: 'https://www.oschina.net/',
                 box_shadow: '#F2584A',
-                icon: 'img/headline.png',
+                icon: 'img/oschina.png',
             }, {
                 name: 'InfoQ',
                 link: 'https://www.infoq.cn/',
@@ -164,7 +164,7 @@ $(function() {
                 name: '京东',
                 link: 'https://www.jd.com/',
                 box_shadow: '#fe7700',
-                icon: 'img/douyu.png',
+                icon: 'img/jingdong.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
