@@ -136,11 +136,6 @@ $(function() {
                 box_shadow: '#fe7700',
                 icon: 'img/bilibili.png',
             }, {
-                name: '央视',
-                link: 'https://www.cctv.com/',
-                box_shadow: '#fe7700',
-                icon: 'img/yangshi.png',
-            }, {
                 name: '懂车帝',
                 link: 'https://www.dongchedi.com/',
                 box_shadow: '#fe7700',
