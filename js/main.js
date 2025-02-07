@@ -150,6 +150,21 @@ $(function() {
                 link: 'https://zhibo8.cc/',
                 box_shadow: '#fe7700',
                 icon: 'img/douyu.png',
+            }, {
+                name: '苹果官网',
+                link: 'https://www.apple.com.cn/',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }, {
+                name: '大疆官网',
+                link: 'https://www.dji.com/cn',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }, {
+                name: '京东',
+                link: 'https://www.jd.com/',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
