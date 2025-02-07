@@ -76,10 +76,25 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
+                name: '开源中国',
+                link: 'https://www.oschina.net/',
+                box_shadow: '#F2584A',
+                icon: 'img/headline.png',
+            }, {
+                name: 'InfoQ',
+                link: 'https://www.infoq.cn/',
+                box_shadow: '#F2584A',
+                icon: 'img/headline.png',
+            }, {
                 name: '今日热榜',
                 link: 'https://tophub.today/',
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
+            }, {
+                name: 'CSDN',
+                link: 'https://www.csdn.net/',
+                box_shadow: '#c5000a',
+                icon: 'img/csdn.png',
             }, {
                 name: '知乎',
                 link: 'https://www.zhihu.com/',
@@ -106,10 +121,35 @@ $(function() {
                 box_shadow: '#fe7700',
                 icon: 'img/douyu.png',
             }, {
-                name: 'CSDN',
-                link: 'https://www.csdn.net/',
-                box_shadow: '#c5000a',
-                icon: 'img/csdn.png',
+                name: '虎牙',
+                link: 'https://www.huya.com/myfollow',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }, {
+                name: '抖音',
+                link: 'https://www.douyin.com/',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }, {
+                name: 'B站',
+                link: 'https://www.bilibili.com',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }, {
+                name: '央视',
+                link: 'https://www.cctv.com/',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }, {
+                name: '懂车帝',
+                link: 'https://www.dongchedi.com/',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
+            }，{
+                name: '直播吧',
+                link: 'https://zhibo8.cc/',
+                box_shadow: '#fe7700',
+                icon: 'img/douyu.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
