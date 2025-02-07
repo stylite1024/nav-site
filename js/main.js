@@ -160,6 +160,11 @@ $(function() {
                 link: 'https://www.jd.com/',
                 box_shadow: '#fe7700',
                 icon: 'img/jingdong.png',
+            }, {
+                name: '央视',
+                link: 'https://www.cctv.com/',
+                box_shadow: '#fe7700',
+                icon: 'img/yangshi.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
