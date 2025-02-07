@@ -134,7 +134,7 @@ $(function() {
                 name: 'B站',
                 link: 'https://www.bilibili.com',
                 box_shadow: '#fe7700',
-                icon: 'img/bilibili.png',
+                icon: 'img/bilibili-xs.png',
             }, {
                 name: '懂车帝',
                 link: 'https://www.dongchedi.com/',
