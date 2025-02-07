@@ -145,7 +145,7 @@ $(function() {
                 link: 'https://www.dongchedi.com/',
                 box_shadow: '#fe7700',
                 icon: 'img/douyu.png',
-            }，{
+            }, {
                 name: '直播吧',
                 link: 'https://zhibo8.cc/',
                 box_shadow: '#fe7700',
