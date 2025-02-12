@@ -165,6 +165,11 @@ $(function() {
                 link: 'https://www.cctv.com/',
                 box_shadow: '#fe7700',
                 icon: 'img/yangshi.png',
+            }, {
+                name: '广东TV',
+                link: 'https://www.gdtv.cn/',
+                box_shadow: '#fe7700',
+                icon: 'img/lizhi.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
