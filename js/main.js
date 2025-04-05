@@ -170,6 +170,11 @@ $(function() {
                 link: 'https://www.gdtv.cn/',
                 box_shadow: '#fe7700',
                 icon: 'img/lizhi.png',
+            }, {
+                name: '咪咕体育',
+                link: 'https://www.miguvideo.com/',
+                box_shadow: '#fe7700',
+                icon: 'img/migu.jpeg',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
